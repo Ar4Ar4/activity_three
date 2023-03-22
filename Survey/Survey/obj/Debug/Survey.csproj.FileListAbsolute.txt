@@ -1,0 +1,9 @@
+Z:\OO142\act3\Survey\Survey\bin\Debug\Survey.exe.config
+Z:\OO142\act3\Survey\Survey\bin\Debug\Survey.exe
+Z:\OO142\act3\Survey\Survey\bin\Debug\Survey.pdb
+Z:\OO142\act3\Survey\Survey\obj\Debug\Survey.csprojResolveAssemblyReference.cache
+Z:\OO142\act3\Survey\Survey\obj\Debug\Survey.Properties.Resources.resources
+Z:\OO142\act3\Survey\Survey\obj\Debug\Survey.csproj.GenerateResource.Cache
+Z:\OO142\act3\Survey\Survey\obj\Debug\Survey.exe
+Z:\OO142\act3\Survey\Survey\obj\Debug\Survey.pdb
+Z:\OO142\act3\Survey\Survey\obj\Debug\Survey.Form1.resources
